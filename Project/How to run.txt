@@ -1,0 +1,33 @@
+- Để chạy project thì cô cần cài visual studio
+
+Để chạy project :
+
+Bước 1 : Giải nén file Maze_project
+Bước 2 : Chạy file có tên là "Mazegamemakeforfun.sln"
+Bước 3 : Chạy chương trình 
+
+
+- Trong cái chương trình để di chuyển lên xuống thì ta dùng các dấu mũi tên lên , xuống và nhấn phím enter để vào phần tùy chọn nào đó
+- Trong cái chỉnh số lượng kích cỡ ô trong maze trong option thì sau khi nhập số cần chuyển xong thì ta nhấn phím "escape" để lưu giá trí cần nhập
+
+
+- Đối với  phần play
+Thực hiện các bước như sau :
+
+Bước 1 : Có thể bỏ qua sang bước 2 hay thực hiện như sau 
+	- Nhấn phím P để thay đổi ô bắt đầu để tạo ra 1 mê cung 1 cách ngẫu nhiên 
+	- Click chuốt trái vào ô bất kì trên cửa sổ để thay đổi với ô đang có màu xanh là ô thay đổi 
+	- Nhấn enter để hoàn thành xong bước 1
+Bước 2 : Nhấn phím M Để tạo mê cung 1 cách ngẫu nhiên 
+Bước 3 : Có thể bỏ qua sang bước 4 hoặc 5 , nếu không bỏ qua làm như sau: 
+	- Nhấn phím C để bắt dầu tạo tường cho mê cung
+	- Tạo tường bằng cách nhấn chuột trái vào ô nào mà mình thích để tạo tường
+	- Muốn trở lại ô trước thì nhấn phím "backspace" 
+	- Thay đổi xong thỉ nhấn enter
+Bước 4 : Có thể bỏ qua sang bước 5,  nếu không bỏ qua làm như sau 
+	- Nhấn phím f để bắt đầu thay đổi ô bắt đầu và kết thúc cho việc giải maze
+	- Nhấn chuột trái vào bất kì ô trên cửa số để thay đổi ô đó là ô bắt đầu
+	- Nhấn chuột phải vào bất kì ô trên cửa số để thay đổi ô đó là ô kết thúc
+	- Thay đổi xong thỉ nhấn enter
+Bước 5 : Nhấn Phím s để xem chương trình tìm đường đi   
+	 
