@@ -14,7 +14,7 @@
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 20520465      | Nguyễn Vũ Dương        |Nhóm trưởng|[duongve13112002](https://github.com/duongve13112002)    |20520465@gm.uit.edu.vn   |
 | 2      | 20520375      | Phạm Phước An     |Thành viên |[RiderKick2204](https://github.com/RiderKick2204)    |20520375@gm.uit.edu.vn   |
-| 3      | 20520431      | Hoàng Công Danh     |Thành viên |    |20520431@gm.uit.edu.vn   |
+| 3      | 20520431      | Hoàng Công Danh     |Thành viên |[DanhHoang2304](https://github.com/DanhHoang2304)     |20520431@gm.uit.edu.vn   |
 | 4      | 20520449      | Bùi Hữu Đức     |Thành viên |    |20520449@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
